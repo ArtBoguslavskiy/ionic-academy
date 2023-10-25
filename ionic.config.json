@@ -1,0 +1,7 @@
+{
+  "name": "ionic-academy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
